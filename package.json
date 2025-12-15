@@ -3,7 +3,7 @@
     "express": "^5.2.1"
   },
   "scripts": {
-    "start": "node index.html",       <-- SKAL VÆRE NAVNET PÅ DIN HOVEDFIL
+    "start": "node index.html",
     "build": "echo 'Intet build nødvendigt'"
   }
 }
