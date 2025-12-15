@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "build": "echo 'Intet build nødvendigt' || true"
   }
 }
